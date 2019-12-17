@@ -4,7 +4,7 @@ from distutils.core import setup
 import sys
 import os
 import multiprocessing
-import colorweave
+#import colorweave
 
 requires = []
 
